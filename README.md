@@ -1,6 +1,6 @@
 # HJ1239 Java SDK (Java 8 Compatible)
 
-> *"We are DarkInno. Like a stout beer, our best ideas are brewed slowly in the dark, away from the hype."*
+> *"We are im10furry. Like a stout beer, our best ideas are brewed slowly in the dark, away from the hype."*
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Java](https://img.shields.io/badge/Java-8%2B-orange.svg)](https://www.oracle.com/java/technologies/javase/javase8-archive-downloads.html)
@@ -29,7 +29,7 @@ This branch is the **Java 8 compatible edition**, fully API-compatible with the 
 
 ```xml
 <dependency>
-    <groupId>io.darkinno</groupId>
+    <groupId>io.im10furry</groupId>
     <artifactId>hj1239-sdk-java8</artifactId>
     <version>1.1.0</version>
 </dependency>
@@ -50,14 +50,14 @@ This branch is the **Java 8 compatible edition**, fully API-compatible with the 
 > ```xml
 > <repository>
 >     <id>github</id>
->     <url>https://maven.pkg.github.com/DarkInno/hj1239-java8-sdk</url>
+>     <url>https://maven.pkg.github.com/im10furry/hj1239-java8-sdk</url>
 > </repository>
 > ```
 
 ### Gradle
 
 ```groovy
-implementation 'io.darkinno:hj1239-sdk:1.1.0'
+implementation 'io.im10furry:hj1239-sdk:1.1.0'
 ```
 
 ## Integration Guide
@@ -424,4 +424,4 @@ mvn package   # Package JAR
 
 ## License
 
-MIT © [DarkInno](https://github.com/darkinno)
+MIT © [im10furry](https://github.com/im10furry)

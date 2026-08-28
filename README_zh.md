@@ -1,7 +1,7 @@
 # HJ1239 Java SDK (Java 8 适配版)
 
-> *"We are DarkInno. Like a stout beer, our best ideas are brewed slowly in the dark, away from the hype."*  
-> *"我们是 DarkInno。如一杯烈性黑啤，最好的想法都在黑暗中慢酿，远离喧嚣。"*
+> *"We are im10furry. Like a stout beer, our best ideas are brewed slowly in the dark, away from the hype."*  
+> *"我们是 im10furry。如一杯烈性黑啤，最好的想法都在黑暗中慢酿，远离喧嚣。"*
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Java](https://img.shields.io/badge/Java-8%2B-orange.svg)](https://www.oracle.com/java/technologies/javase/javase8-archive-downloads.html)
@@ -29,7 +29,7 @@ Java SDK 实现，严格遵循标准中 Section 5（企业平台通讯协议）�
 
 ```xml
 <dependency>
-    <groupId>io.darkinno</groupId>
+    <groupId>io.im10furry</groupId>
     <artifactId>hj1239-sdk-java8</artifactId>
     <version>1.1.0</version>
 </dependency>
@@ -50,7 +50,7 @@ Java SDK 实现，严格遵循标准中 Section 5（企业平台通讯协议）�
 > ```xml
 > <repository>
 >     <id>github</id>
->     <url>https://maven.pkg.github.com/DarkInno/hj1239-java8-sdk</url>
+>     <url>https://maven.pkg.github.com/im10furry/hj1239-java8-sdk</url>
 > </repository>
 > ```
 
@@ -122,4 +122,4 @@ mvn package   # 打包
 
 ## 开源协议
 
-MIT © [DarkInno](https://github.com/darkinno)
+MIT © [im10furry](https://github.com/im10furry)
